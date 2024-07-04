@@ -1,4 +1,6 @@
 hi 
 bye bye
+<<<<<<< HEAD
 1
+>>>>>>> a8a92dd38d4dadc699ee271ff26782ba845b2a99
 
